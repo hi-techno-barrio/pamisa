@@ -16,3 +16,4 @@ Bill Of Materials:
 
 https://www.lazada.com.ph/products/tehe-mini-ac-dc-converter-ac110v-220v-to-dc-12v-02a5v-module-board-i358232855-s810826646.html/
 http://www.lcdwiki.com/res/MSP2402/2.4inch_SPI_Module_MSP2402_User_Manual_EN.pdf
+http://www.lcdwiki.com/2.4inch_SPI_Module_ILI9341_SKU:MSP2402
