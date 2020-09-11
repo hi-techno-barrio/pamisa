@@ -12,6 +12,7 @@ http://nicuflorica.blogspot.com/2020/04/sistem-de-automatizare-incubator-oua-2.h
 https://github.com/tehniq3/egg-incubator
 https://easyeda.com/editor#id=5d677029f0364916b1fb7376822a36a8
 https://mytectutor.com/2-4-ili9341-tft-touch-screen-with-arduino/
+https://how2electronics.com/interfacing-multiple-ds18b20-temperature-sensors/
 
 Bill Of Materials:
 
